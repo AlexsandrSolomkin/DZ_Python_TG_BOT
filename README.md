@@ -1,4 +1,4 @@
 # DZ_Python_TG_BOT
 
-В main.py вствавить токен бота
+В main.py вставить токен бота
 Ссылка на моего бота: https://t.me/Tg7878_bot
